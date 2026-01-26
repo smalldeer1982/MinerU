@@ -11,7 +11,6 @@ data-preparation1
 __pycache__
 *.log
 *.pyc
-.vscode
 debug/
 *.ipynb
 .idea
@@ -29,8 +28,6 @@ app/tests/*
 temp/
 tmp/
 tmp
-.vscode
-.vscode/
 ocr_demo
 .coveragerc
 /app/common/__init__.py
@@ -51,3 +48,6 @@ _build/
 
 
 output/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
